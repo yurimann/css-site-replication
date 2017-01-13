@@ -11,8 +11,7 @@ body {
   background-image:url("../images/bgtile.png");
   background-repeat: repeat-x;
   padding: 30px;
-  padding-top: 80px;
-
+  padding-top: 100px;
   max-width: 900px;
 }
 
